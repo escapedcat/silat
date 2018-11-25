@@ -1,13 +1,12 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 include: ["_pages"]
 defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: "pages"
     values:
-      layout: single
-      author_profile: false
+      layout: "default"
 
 # Site Settings
 locale                   : "de-DE"
@@ -16,3 +15,4 @@ title_separator          : "-"
 name                     : &name "Pencak Silat Bongkot Harimau Deutschland Hamburg"
 description              : &description "Informationen ueber Pencak Silat Bongkot Harimau in Hamburg"
 breadcrumbs              : true
+show_downloads           : true

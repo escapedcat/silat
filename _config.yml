@@ -9,10 +9,12 @@ defaults:
       layout: "default"
 
 # Site Settings
-locale                   : "de-DE"
-title                    : "Pencak Silat Bongkot Harimau"
-title_separator          : "-"
-name                     : &name "Pencak Silat Bongkot Harimau Deutschland Hamburg"
-description              : &description "Informationen ueber Pencak Silat Bongkot Harimau in Hamburg"
-breadcrumbs              : true
-show_downloads           : true
+locale: "de-DE"
+title: "Pencak Silat Bongkot Harimau"
+title_separator: "-"
+name: &name "Pencak Silat Bongkot Harimau Deutschland Hamburg"
+description: &description "Informationen über Pencak Silat Bongkot Harimau in Hamburg"
+breadcrumbs: true
+show_downloads: false
+sass:
+  sass_dir: assets/css

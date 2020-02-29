@@ -1,0 +1,32 @@
+---
+---
+
+@import "theme-cayman";
+
+h1 a {
+  color: inherit;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+footer ul {
+  padding: 0;
+}
+
+footer ul li {
+  display: inline-block;
+}
+
+footer ul li:after {
+  content: " |";
+}
+
+footer ul li:last-of-type:after {
+  content: "";
+}

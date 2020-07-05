@@ -8,7 +8,7 @@ Wir trainieren zweimal pro Woche für jeweils 90 Minuten:
 - Freitag  
   19:30 bis 21:00 Uhr
 
-im
+## Ort
 
 [Haus der Jugend Alter Teichweg](https://www.gs-atw.de/index.php/schule-im-stadtteil/haus-der-jugend)  
 Alter Teichweg 200  

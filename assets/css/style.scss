@@ -37,6 +37,7 @@ footer ul li:last-of-type:after {
 
 .img-trainer {
   float: right;
+  width: 120px;
   padding: 0 0 10px 10px;
 }
 
@@ -56,5 +57,9 @@ footer ul li:last-of-type:after {
     width: calc(50% - 10px);
     margin-left: 5px;
     margin-right: 5px;
+  }
+
+  .img-trainer {
+    width: 179px;
   }
 }

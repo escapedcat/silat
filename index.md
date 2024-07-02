@@ -13,7 +13,7 @@ Wir trainieren zweimal pro Woche für jeweils 90 Minuten:
 [Haus der Jugend Alter Teichweg](https://www.jugendserver-hamburg.de/?aid=12497)  
 Alter Teichweg 200  
 22049 Hamburg  
-[![Weg Info]({{ "/assets/images/weg.png" | relative_url }})](https://www.openstreetmap.org/?mlat=53.58667&mlon=10.06984#map=17/53.58667/10.06984&layers=N)
+[![Weg Info]({{ "/assets/images/weg.webp" | relative_url }})](https://www.openstreetmap.org/?mlat=53.58667&mlon=10.06984#map=17/53.58667/10.06984&layers=N)
 
 Ein kostenloses Probetraining ist jederzeit möglich. Komm einfach vorbei.
 

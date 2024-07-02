@@ -13,16 +13,16 @@ Zu Beginn jeder Unterrichtsstunde wird der Lehrer begrüßt, darauf folgt das Au
 Da Pencak Silat im Wettkampf ein Vollkontaktsport ist, wird auch im Training immer mit Kontakt gearbeitet, um den Körper abzuhärten. Daneben wird sehr viel Wert auf den Aufbau von Kraft, Kondition und Schnelligkeit gelegt. Allerdings ist jeder Anfänger bei regelmäßigem Training schon nach kurzer Zeit in der Lage, mit den anderen mitzuhalten. Da grundsätzlich Anfänger und Fortgeschrittene zusammen trainieren, setzt der Lernerfolg bei den Anfängern sehr schnell ein.
 
 <div class="images-training" markdown="1">
-![Form: Sempok]({{ "/assets/images/formen-sempok.jpg" | relative_url }}){:.images-training__item}
-![Fussfeger]({{ "/assets/images/fussfeger-1a.jpg" | relative_url }}){:.images-training__item}
-![Polstertraining 3]({{ "/assets/images/polstertraining-3.jpg" | relative_url }}){:.images-training__item}
-![Polstertraining 4]({{ "/assets/images/polstertraining-4.jpg" | relative_url }}){:.images-training__item}
-![Selbstverteidigung 1c]({{ "/assets/images/selbstverteidigung-1c.jpg" | relative_url }}){:.images-training__item}
+![Form: Sempok]({{ "/assets/images/formen-sempok.webp" | relative_url }}){:.images-training__item}
+![Fussfeger]({{ "/assets/images/fussfeger-1a.webp" | relative_url }}){:.images-training__item}
+![Polstertraining 3]({{ "/assets/images/polstertraining-3.webp" | relative_url }}){:.images-training__item}
+![Polstertraining 4]({{ "/assets/images/polstertraining-4.webp" | relative_url }}){:.images-training__item}
+![Selbstverteidigung 1c]({{ "/assets/images/selbstverteidigung-1c.webp" | relative_url }}){:.images-training__item}
 </div>
 
 ## Trainer
 
-![Olaf Hilke (Trainer)]({{ "/assets/images/olaf.jpg" | relative_url }}){:.img-trainer}
+![Olaf Hilke (Trainer)]({{ "/assets/images/olaf.webp" | relative_url }}){:.img-trainer}
 
 Der Trainer in Hamburg ist Olaf Hilke, der 1964 geboren wurde. Er kam erstmals 1989 mit Silat in Kontakt. Nachdem er ab seinem 13. Lebensjahr Shotokan-Karate trainierte, was ihn aber nach einigen Jahren nicht mehr genug forderte, wechselte er 1985 zum Kung-Fu. Da er aber weiterhin auf der Suche nach einem Kampfsport war, der seinen Vorstellungen mehr entsprach und seine Ansprüche mehr befriedigte, lernte er 1989 das Pencak Silat kennen, das damals von einem Indonesier in Hamburg unterrichtet wurde.
 

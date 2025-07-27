@@ -3,7 +3,8 @@
 Wir trainieren zweimal pro Woche für jeweils 90 Minuten:
 
 - Montag  
-  20:00 bis 21:30 Uhr
+  Bis 03.09.25: 19:00 bis 20:30 Uhr (Ferienzeit)  
+  20:00 bis 21:30 Uhr (Standardzeit)
 
 - Freitag  
   19:00 bis 20:30 Uhr

@@ -8,8 +8,6 @@ Wir trainieren zweimal pro Woche für jeweils 90 Minuten:
 - Freitag  
   19:00 bis 20:30 Uhr
 
-- Urlaub vom 08.09. - 15.09.2025
-
 ## Ort
 
 [Haus der Jugend Alter Teichweg](https://www.jugendserver-hamburg.de/?aid=12497)  

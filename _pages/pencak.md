@@ -47,6 +47,6 @@ Henri de Thomis verstarb mit 67 Jahren 1993 in Groningen/Holland. Sein Sohn Raou
 
 ## Weiterführende Links
 
-- [Website der Pencak Silat Union Deutschland (PSUD)](http://www.psud.de)
+- [Website der Pencak Silat Union Deutschland (PSUD)](https://www.psud.de)
 - [Silat Schule unserers Meisters in den Niederlanden](https://www.bongkot.net)
-- [Bongkot Harimau in Belgien](http://www.silatbelgium.be)
+- [Bongkot Harimau in Belgien](https://www.silatbelgium.be)

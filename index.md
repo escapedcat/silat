@@ -10,7 +10,7 @@ Wir trainieren zweimal pro Woche für jeweils 90 Minuten:
 
 ## Ort
 
-[Haus der Jugend Alter Teichweg](https://www.jugendserver-hamburg.de/?aid=12497)  
+[Haus der Jugend Alter Teichweg](https://www.jugendserver-hamburg.de/?aid=12497) (Eingang daneben)  
 Alter Teichweg 200  
 22049 Hamburg
 

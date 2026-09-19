@@ -1,5 +1,20 @@
 theme: jekyll-theme-cayman
 include: ["_pages"]
+# keep repo docs and raw sources off the live site
+# (a custom list replaces the defaults, so they're repeated here)
+exclude:
+  - AGENTS.md
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+optional_front_matter:
+  remove_originals: true
 defaults:
   # _pages
   - scope:
@@ -10,6 +25,7 @@ defaults:
 
 # Site Settings
 baseurl: "/"
+lang: "de"
 locale: "de-DE"
 title: "Pencak Silat Bongkot Harimau"
 title_separator: "-"

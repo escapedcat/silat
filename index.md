@@ -22,3 +22,4 @@ Ein kostenloses Probetraining ist jederzeit möglich. Bitte [melde Dich vorher b
 
 **Training in English**  
 We also speak English
+{: lang="en"}

@@ -10,6 +10,7 @@ defaults:
 
 # Site Settings
 baseurl: "/"
+lang: "de"
 locale: "de-DE"
 title: "Pencak Silat Bongkot Harimau"
 title_separator: "-"

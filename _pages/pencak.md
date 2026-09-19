@@ -27,7 +27,7 @@ Pencak Silat wird schon seit langer Zeit auf den Inseln ausgeübt, die uns heute
 
 Im Laufe der Zeit haben die verschiedenen Völker in diesem Archipel auch ganz verschiedene Stile entwickelt, die alle andere Schwerpunkte haben. Einige dieser Stile, die sich, vor allem im sportlichen Wettkampf, gegenüber anderen durchgesetzt haben, und weitere Verbreitung fanden, sind heute vom IPSI (Ikatan Pencak Silat Indonesia), dem Pencak Silat-Weltverband anerkannt.
 
-Daneben gibt es sicherlich noch viele andere Stile, die nicht bekannt sind, da sie nur von wenigen, manchmal auch nur von einem einzigen Meister ausgeübt werden. Viele dieser Stile und ihre Techniken nehmen die alten Meister mit ins Grab, da sie keine Möglichkeit hatten, sie an Schüler weiter zu geben.
+Daneben gibt es sicherlich noch viele andere Stile, die nicht bekannt sind, da sie nur von wenigen, manchmal auch nur von einem einzigen Meister ausgeübt werden. Viele dieser Stile und ihre Techniken nehmen die alten Meister mit ins Grab, da sie keine Möglichkeit hatten, sie an Schüler weiterzugeben.
 
 ## Wettkampf
 
@@ -39,14 +39,14 @@ Punktwertungen gibt es für Treffer, Abwehren und Würfe.
 
 ## Der Stil Bongkot Harimau
 
-Bongkot Harimau ist ein relativ junger Stil, der erst seit dem 20.Jahrhundert besteht. Der Begründer des Stils war Henri de Thomis, der ab seinem 8. Lebensjahr Pencak Silat betrieb. Zuerst trainierte er bei seinem Vater, der Serak lernte, dann bei dem Guru des Serak selbst. Daneben lernte er Cimande in Jakarta. Ein Freund seines Vaters unterrichtete ihn nebenher noch in Kuntao. Als sein Vater versetzt wurde, lernte er in Surabaya den Stil Derosemo kennen.
-Nach seiner Emigration 1959 in die Niederlande kam er in Kontakt mit Panca Bela. Nachdem er all diese verschiedene Stile studiert und eine Menge eigene Erfahrung gesammelt hatte, entwickelte er den Stil Bongkot Harimau. Der Stil ist eher wettkampforientiert und besteht zu ca. 70 % aus Olah Raga.
+Bongkot Harimau ist ein relativ junger Stil, der erst seit dem 20. Jahrhundert besteht. Der Begründer des Stils war Henri de Thomis, der ab seinem 8. Lebensjahr Pencak Silat betrieb. Zuerst trainierte er bei seinem Vater, der Serak lernte, dann bei dem Guru des Serak selbst. Daneben lernte er Cimande in Jakarta. Ein Freund seines Vaters unterrichtete ihn nebenher noch in Kuntao. Als sein Vater versetzt wurde, lernte er in Surabaya den Stil Derosemo kennen.
+Nach seiner Emigration 1959 in die Niederlande kam er in Kontakt mit Panca Bela. Nachdem er all diese verschiedenen Stile studiert und eine Menge eigene Erfahrung gesammelt hatte, entwickelte er den Stil Bongkot Harimau. Der Stil ist eher wettkampforientiert und besteht zu ca. 70 % aus Olah Raga.
 
-Der Stil Bongkot Harimau wurde von Weltverband PERSILAT (Persekutuan Pencak Silat Antarabangsa) anerkannt. Es bestehen mittlerweile Schulen in einigen Städten Hollands, sowie in Deutschland, Belgien und Österreich.
+Der Stil Bongkot Harimau wurde vom Weltverband PERSILAT (Persekutuan Pencak Silat Antarabangsa) anerkannt. Es bestehen mittlerweile Schulen in einigen Städten Hollands, sowie in Deutschland, Belgien und Österreich.
 Henri de Thomis verstarb mit 67 Jahren 1993 in Groningen/Holland. Sein Sohn Raoul de Thomis führt den Stil seither erfolgreich fort.
 
 ## Weiterführende Links
 
 - [Website der Pencak Silat Union Deutschland (PSUD)](https://www.psud.de)
-- [Silat Schule unserers Meisters in den Niederlanden](https://bongkot.jimdoweb.com/)
+- [Silat-Schule unseres Meisters in den Niederlanden](https://bongkot.jimdoweb.com/)
 - [Bongkot Harimau in Belgien](https://www.silatbelgium.be)
